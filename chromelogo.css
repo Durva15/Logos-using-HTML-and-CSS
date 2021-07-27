@@ -60,6 +60,7 @@
   transform: rotate(120deg);
   background: #fdd901;
 }
+
 /*to cover the little white part of second part one-third */
 #division2:after {
   position: absolute;
